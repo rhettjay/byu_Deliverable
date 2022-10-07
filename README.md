@@ -4,6 +4,7 @@ To Whom it May Concern:
 Please find contained the .js files for the back-end and front-end services.
 Regardless of the outcome, I want to thank you for the opportunity to test myself.
 I have never written in javascript before so this was a fun and challening exercise to build something new.
+I must also apologize for the git messiness. I recently broke my personal machine so I was using my wife's mac for this which meant having to upload to git manually.
 
 All the best,
 
