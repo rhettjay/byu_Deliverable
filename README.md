@@ -1,3 +1,5 @@
+## This repo is public and I leave it up here as a reference to how far one can come if they stick to it. If you look at this repo you'll see my "first" attempt at full-stack development, not much to look at, but one day maybe I'll come back and do a branch of what it should have looked like just to demonstrate knowledge gained.
+
 # byuDeliverable
 To Whom it May Concern:
 
