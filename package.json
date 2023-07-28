@@ -1,0 +1,19 @@
+{
+  "name": "byu_deliverable",
+  "version": "0.2.0",
+  "description": "retry",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-bulk/byu_Deliverable.git"
+  },
+  "author": "jay-bulk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-bulk/byu_Deliverable/issues"
+  },
+  "homepage": "https://github.com/jay-bulk/byu_Deliverable#readme"
+}
